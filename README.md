@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @edupr
-- 👀 I’m interested in ... Python
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Python
+- 👀 I’m interested in ... Data Science, ML, HTML, CSS
+- 🌱 I’m currently learning ... Data Science, ML, HTML, CSS
+- 💞️ I’m looking to collaborate on ... Data Science, ML, HTML, CSS
 - 📫 How to reach me ... https://twitter.com/edupr
 
 <!---
