@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Data Science, ML, HTML, CSS
 - 📫 How to reach me ... https://twitter.com/edupr
 
-Endpoint: api/top-langs?username=edupr
+api/top-langs?username=edupr
 
 <!---
 edupr/edupr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
