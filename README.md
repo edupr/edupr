@@ -5,6 +5,7 @@
 - 📫 How to reach me ... https://twitter.com/edupr
 
 api/top-langs?username=edupr
+[![Edu's GitHub stats](https://github-readme-stats.vercel.app/api?username=edupr)](https://github.com/edupr/github-readme-stats)
 
 <!---
 edupr/edupr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
