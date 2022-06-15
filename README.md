@@ -11,8 +11,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edupr)](https://github.com/edupr/github-readme-stats)
 
 
-![image]([BadgeURLHere](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white))
 
+
+<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src= https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue />
 
 
 <!---
