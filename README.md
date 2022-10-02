@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Eduardo Peña
 ----------------------------------
-- 👀 I’m interested in ... Data Science, ML, HTML and web development
-- 🌱 I’m currently learning ... Data Science, HTML, CSS, JS, React
-- 💞️ I’m looking to collaborate on ... Data Science, ML, HTML, CSS
+![mario](https://user-images.githubusercontent.com/2865960/193469747-e60f7a96-4dcf-4cc5-91f5-80374dca4fcc.png)
+
+- 👀 I’m interested in: Data Science, Machine Learning, HTML and web development
+- 🌱 I’m currently learning: Data Science (NumPy, Pandas, Seaborn, Matplotlib)
+- 💞️ I’m looking to collaborate on: Data Science projects
 
 🌎   Find me around the web:
 ----------------------------------
