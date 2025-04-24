@@ -6,9 +6,6 @@
 - 🌱 I’m currently learning: Data Science (NumPy, Pandas, Seaborn, Matplotlib)
 - 💞️ I’m looking to collaborate on: Data Science projects
 
-🌎   Find me around the web:
-----------------------------------
-- 📫 How to reach me ... https://twitter.com/edupr
 
 📈   Some of my stats are:
 ----------------------------------
